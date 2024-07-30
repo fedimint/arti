@@ -1,5 +1,5 @@
 [package]
-name = "tor-dirmgr"
+name = "fedimint-tor-dirmgr"
 version = "0.20.0"
 authors = ["The Tor Project, Inc.", "Nick Mathewson <nickm@torproject.org>"]
 edition = "2021"
